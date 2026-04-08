@@ -28,7 +28,7 @@ const translations = {
             subtitle: "Let's work together to create impactful marketing strategies",
             btn1: "Start Your Project", btn2: "Download Resume", location: "Ouarzazate, Morocco"
         },
-        footer: { about: "About", projects: "Projects", contact: "Contact", copyright: "© 2025 Hamza Hebaz. All rights reserved." }
+        footer: { about: "About", projects: "Projects", contact: "Contact", copyright: "© 2026 Hamza Hebaz. All rights reserved." }
     },
     fr: {
         dir: 'ltr',
@@ -58,7 +58,7 @@ const translations = {
             subtitle: "Travaillons ensemble pour créer des stratégies marketing percutantes",
             btn1: "Commencer Votre Projet", btn2: "Télécharger le CV", location: "Ouarzazate, Maroc"
         },
-        footer: { about: "À Propos", projects: "Projets", contact: "Contact", copyright: "© 2025 Hamza Hebaz. Tous droits réservés." }
+        footer: { about: "À Propos", projects: "Projets", contact: "Contact", copyright: "© 2026 Hamza Hebaz. Tous droits réservés." }
     },
     ar: {
         dir: 'rtl',
@@ -88,7 +88,7 @@ const translations = {
             subtitle: "دعنا نعمل معاً لإنشاء استراتيجيات تسويق تأثيرية",
             btn1: "ابدأ مشروعك", btn2: "تحميل السيرة الذاتية", location: "ورزازات، المغرب"
         },
-        footer: { about: "حول", projects: "مشاريع", contact: "اتصال", copyright: "© 2025 حمزة هباز. جميع الحقوق محفوظة." }
+        footer: { about: "حول", projects: "مشاريع", contact: "اتصال", copyright: "© 2026 حمزة هباز. جميع الحقوق محفوظة." }
     }
 };
 
